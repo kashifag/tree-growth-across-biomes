@@ -22,7 +22,7 @@ MSc Bioinformatics, University of Bristol
 ---
 
 ## Live Demo
-**[Launch the App](https://kashifag-tree-growth-across-biomes.streamlit.app)** (hosted on Streamlit Cloud)  
+**[Launch the App](https://tree-growth-across-biomes-6nyeznpyxfdtufuldygvn3.streamlit.app)** (hosted on Streamlit Cloud)  
 *(If you’re running locally, see instructions below.)*
 
 ---
