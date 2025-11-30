@@ -1,12 +1,17 @@
 #Tree Growth Across Biomes
 ### *A Dynamic Visualization of Hierarchical Models — Built with Streamlit + Python*
 
-Inspiration
-Adapted from Matthew Kay’s “Hierarchical Models Explained”
+**Inspiration**
+
+
+Adapted from 
+Matthew Kay’s “Hierarchical Models Explained”
 Re-imagined in Python for ecological and bioinformatics education.
 
-Author
-Kashifa Ghazal — MSc Bioinformatics, University of Bristol
+**Author**
+
+**Kashifa Ghazal**
+MSc Bioinformatics, University of Bristol
 
 ![cover](https://user-images.githubusercontent.com/00000000/forest-cover.gif)
 
