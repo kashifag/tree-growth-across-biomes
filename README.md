@@ -1,4 +1,4 @@
-# 🌳 Tree Growth Across Biomes
+#Tree Growth Across Biomes
 ### *A Dynamic Visualization of Hierarchical Models — Built with Streamlit + Python*
 
 ![cover](https://user-images.githubusercontent.com/00000000/forest-cover.gif)
@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 Live Demo
-👉 **[Launch the App](https://kashifag-tree-growth-across-biomes.streamlit.app)** (hosted on Streamlit Cloud)  
+## Live Demo
+**[Launch the App](https://kashifag-tree-growth-across-biomes.streamlit.app)** (hosted on Streamlit Cloud)  
 *(If you’re running locally, see instructions below.)*
 
 ---
 
-## 🧠 What This Project Shows
+## What This Project Shows
 This project brings the idea of **hierarchical (mixed-effects) models** to life.  
 It compares three modeling philosophies:
 
-| 🌿 Mode | 🔍 Description | 🧮 Model |
-|---------|----------------|----------|
+| Mode | Description | Model |
+|------|--------------|----------|
 | **No Pooling** | Each biome builds its *own* regression — great freedom, high variance. | `OLS per biome` |
 | **Complete Pooling** | Treats all trees as one forest — ignores biome identity. | `Global OLS` |
 | **Partial Pooling** | Biomes share information through random effects — the best of both worlds. | `MixedLM (random intercepts & slopes)` |
