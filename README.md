@@ -1,6 +1,13 @@
 #Tree Growth Across Biomes
 ### *A Dynamic Visualization of Hierarchical Models — Built with Streamlit + Python*
 
+Inspiration
+Adapted from Matthew Kay’s “Hierarchical Models Explained”
+Re-imagined in Python for ecological and bioinformatics education.
+
+Author
+Kashifa Ghazal — MSc Bioinformatics, University of Bristol
+
 ![cover](https://user-images.githubusercontent.com/00000000/forest-cover.gif)
 
 > *"Not all trees grow alike — but they still follow the same laws of nature."*  
@@ -64,14 +71,6 @@ tree-growth-across-biomes/
 ├── requirements.txt        # dependencies
 ├── data/trees_biomes.csv   # simulated dataset
 └── README.md               # you are here
-
-
-Inspiration
-Adapted from Matthew Kay’s “Hierarchical Models Explained”
-Re-imagined in Python for ecological and bioinformatics education.
-
-Author
-Kashifa Ghazal — MSc Bioinformatics, University of Bristol
 
 Quick Summary
 This project visualizes how data-sharing between groups (partial pooling) stabilizes models in biology and ecology; a fun, hands-on example of statistics meeting nature.
